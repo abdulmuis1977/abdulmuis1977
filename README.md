@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **abdulmuis1977/abdulmuis1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+Hello all. I'm trying to learn github
